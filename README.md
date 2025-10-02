@@ -11,10 +11,7 @@ It tracks KPIs, trends, and breakdowns for sales performance.
 - Interactive web app with Streamlit  
 
 ## 🛠 Tech Stack
-- Python  
-- Pandas  
-- Plotly  
-- Streamlit  
+- Excel 
 
 ## 📂 Project Structure
 
@@ -72,6 +69,11 @@ Boost weaker regions (East): targeted promotions or distribution strategies.
 Address seasonal dips: run discounts or marketing during low months (e.g., June).
 Optimize underperforming products: investigate why keyboards/headphones are declining.
 Capitalize on top products (Mouse): bundle with other accessories to lift overall sales.
+
+🖼️ Project Preview
+
+![excel snip](https://github.com/user-attachments/assets/17aec1a2-ad6c-464d-ae2e-bb4106f74b66)
+
 
 📬 Contact
 
